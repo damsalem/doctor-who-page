@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/doctor-who-page/static/js/main.90227065.chunk.js",
-    "main.js.map": "/doctor-who-page/static/js/main.90227065.chunk.js.map",
+    "main.js": "/doctor-who-page/static/js/main.d23c69ef.chunk.js",
+    "main.js.map": "/doctor-who-page/static/js/main.d23c69ef.chunk.js.map",
     "runtime-main.js": "/doctor-who-page/static/js/runtime-main.65b3287f.js",
     "runtime-main.js.map": "/doctor-who-page/static/js/runtime-main.65b3287f.js.map",
     "static/js/2.0619f699.chunk.js": "/doctor-who-page/static/js/2.0619f699.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.65b3287f.js",
     "static/js/2.0619f699.chunk.js",
-    "static/js/main.90227065.chunk.js"
+    "static/js/main.d23c69ef.chunk.js"
   ]
 }
