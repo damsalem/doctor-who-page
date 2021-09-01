@@ -159,7 +159,11 @@ function Item(props) {
         <p className={classes.quote}>"{props.item.quote}"</p>
         <p className={classes.name}>{props.item.name}</p>
       </div>
-      <img className={classes.image} src={`/images/${props.item.image}`} />
+      <img
+        className={classes.image}
+        src={`/doctor-who-page/images/${props.item.image}`}
+        alt={`${props.item.name} Who`}
+      />
     </Paper>
   );
 }
